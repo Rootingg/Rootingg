@@ -18,10 +18,10 @@ You can click the Preview link to take a look at your changes.
 ### My Stats !
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MasterLua&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rootingg&count_private=true&show_icons=true?theme=buefy)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLua)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rootingg)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
