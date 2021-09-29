@@ -1,7 +1,6 @@
 ### - 👋 Hi, I’m @Rootingg
 
-##- 👀 I’m interested in Cyber Security
-
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Cyber Security, Pentesting
 - 💞️ My Actual Project Fivem - .gg/marseillerp
 - 🤠 I develop in LUA/HTML/CSS/PYTHON/JS/PHP
