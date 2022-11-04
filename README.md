@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rooting</h1>
 <h3 align="center">Passionate about cybersecurity, pentest and ctf</h3>
 
-- 🔭 I’m currently working on [Marseille RP Fivem](https://discord.gg/JpMWktNy)
 
 - 🌱 I’m currently learning **Cyber Security, Pentesting**
 
