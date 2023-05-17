@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **Cyber Security, Pentesting**
-
+- 🌱 Certified : **ewpt , ejpt**
 - 👯 I develop in **LUA/HTML/CSS/PYTHON/JS/PHP**
 
 <h3 align="left">Connect with me:</h3>
