@@ -6,6 +6,8 @@
 🛠️ Certifications: eJPTv2, eWPT, eCPPT, PJPT  
 💻 Python, C, HTML, CSS, JavaScript
 
+
+🔗 LinkedIn : [Profile](https://www.linkedin.com/in/lucas-torres3/)
 🔒 Hack The Box: [Profile](https://app.hackthebox.com/users/660008)  
 🔍 TryHackMe: [Profile](https://tryhackme.com/p/Rooting)  
 🔓 RootMe: [Profile](https://root-me.org/GrowRoot)  
