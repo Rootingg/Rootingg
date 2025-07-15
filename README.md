@@ -1,6 +1,6 @@
 # 👨‍💻 Rooting - Cybersecurity Enthusiast 👨‍💻
 
-🚀 Student Bac+1 Cybersecurity Expert at Oteria Cyber School (starting September 2024)
+🚀 Student Bac+2 Cybersecurity Expert at Oteria Cyber School
 
 🔐 Cybersecurity Enthusiast, with a focus on Pentesting and Red Teaming  
 🛠️ Certifications: eJPTv2, eWPT, eCPPT, PJPT  
